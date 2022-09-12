@@ -8,7 +8,7 @@ namespace Repo_Test
         {
             Console.WriteLine("Test Repo");
             Console.ReadKey();
-            Console.WriteLine("setting up new repoistory on command line");
+            Console.WriteLine("setting up new repo on command line");
             Console.ReadKey();
             Console.WriteLine("Next learn to pull");
 
