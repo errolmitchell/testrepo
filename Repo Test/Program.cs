@@ -11,6 +11,7 @@ namespace Repo_Test
             Console.WriteLine("setting up new repo on command line");
             Console.ReadKey();
             Console.WriteLine("Next learn to pull");
+            Console.Beep;
 
         }
     }
